@@ -23,8 +23,8 @@ This project is a Python port of `camodel.m`, implementing a 2D cellular automat
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tumor-ca-simulation.git
-cd tumor-ca-simulation
+git clone https://github.com/aimed-lab/MLPA_demo.git
+cd MLPA_demo
 
 # Install dependencies
 pip install gradio numpy matplotlib scipy pillow
@@ -87,7 +87,7 @@ The simulation produces:
 ## Project Structure
 
 ```
-tumor-ca-simulation/
+MLPA_demo/
 ├── app.py          # Main application with simulation logic and Gradio UI
 └── README.md       # This file
 ```
